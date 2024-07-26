@@ -20,7 +20,9 @@ var tokenMint: any;
 
 // const endpoint = 'https://shy-purple-friday.solana-mainnet.quiknode.pro/fc6faaf9a0febd9e3b1d1e681110da4b1b7e4e05/';
 
-const endpoint = 'https://api.devnet.solana.com';
+// const endpoint = 'https://api.devnet.solana.com';
+
+const endpoint = 'https://shy-purple-friday.solana-mainnet.quiknode.pro/fc6faaf9a0febd9e3b1d1e681110da4b1b7e4e05/';
 
 const connection = new Connection(endpoint, 'confirmed');
 
